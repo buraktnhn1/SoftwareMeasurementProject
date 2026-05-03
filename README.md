@@ -58,7 +58,7 @@ This project is a Java Swing-based application designed to simulate the **ISO 15
 ## 📖 How to Run
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/buraktnhn1/personal-portfolio-website.git
+    git clone https://github.com/buraktnhn1/SoftwareMeasurementProject
     ```
 2.  Open the project folder in your preferred Java IDE (IntelliJ IDEA, Eclipse, etc.).
 3.  Locate `src/view/MainFrame.java` and run it.
